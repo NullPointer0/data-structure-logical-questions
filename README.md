@@ -126,3 +126,9 @@
 5. Counting Bits
 6. Missing Number
 7. Sum of Two Integers
+
+### If you have less time then follow these questions:
+1. 75 Questions Grind
+   - [Check this](https://lnkd.in/d_uWUggG)
+3. Famous 75 Questions of Leetcode
+   - [Check this](https://lnkd.in/d2ZxbtRw)
